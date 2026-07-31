@@ -7,4 +7,10 @@ doing changes in main
 asdfads
 
 create a avatar
+<<<<<<< HEAD
 >>>>>>> feature1
+=======
+
+
+manage the database
+>>>>>>> dfa3cfe (changed the admin service)
