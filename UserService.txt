@@ -7,14 +7,7 @@ doing changes in main
 asdfads
 
 create a avatar
-<<<<<<< HEAD
->>>>>>> feature1
-=======
 
 
 manage the database
-<<<<<<< HEAD
->>>>>>> dfa3cfe (changed the admin service)
-=======
 closing the connection
->>>>>>> 85c4445 (changed the admin service)
