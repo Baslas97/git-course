@@ -6,3 +6,4 @@ create a avatar
 
 
 manage the database
+closing the connection
