@@ -1,4 +1,10 @@
 Get the user data
 git asdfdsa
+<<<<<<< HEAD
 
 doing changes in main
+=======
+asdfads
+
+create a avatar
+>>>>>>> feature1
